@@ -28,5 +28,5 @@ def send_file(file_path):
 
 # Main Thread
 if __name__ == "__main__":
-    file_to_send = r'C:\Users\shibi\OneDrive\Documents\projects\Encrypted_FTP\data.txt'  # File
+    file_to_send = r'C:\your_path\data.txt'  # File
     send_file(file_to_send)
